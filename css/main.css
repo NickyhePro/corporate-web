@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|Roboto');
+
+
+#landing-sign-up{
+    display: flex;
+    flex-direction: column;
+}
+
+#landing-sign-up h1{
+    font-family: 'Roboto', sans-serif;
+}
+
+#landing-sign-up button {
+    font-family: 'Open Sans', sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#landing-page-header{
+    vertical-align: middle;
+}
